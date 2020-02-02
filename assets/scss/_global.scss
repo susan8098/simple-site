@@ -1,0 +1,16 @@
+.g-Container {
+  width: 90%;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.g-Button {
+  background: $gold;
+  border: none;
+  padding: 15px 25px;
+  text-transform: uppercase;
+  border-radius: 50px;
+  color: white;
+  font-weight: 500;
+  letter-spacing: 0.8px;
+}
